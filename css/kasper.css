@@ -231,7 +231,7 @@
 
  /* Start Landing */
  .landing {
-     background-image: url(/image/landing.jpg);
+     background-image: url(./image/landing.jpg);
      min-height: 100vh;
      position: relative;
      background-size: cover;
@@ -400,7 +400,7 @@
  .design {
      padding-top: var(--section-padding);
      padding-bottom: var(--section-padding);
-     background-image: url(/image/design-features.jpg);
+     background-image: url(./image/design-features.jpg);
      background-size: cover;
      height: 600px;
      display: flex;
@@ -659,7 +659,7 @@
      padding-top: var(--section-padding);
      padding-bottom: var(--section-padding);
      position: relative;
-     background-image: url(/image/stats.png);
+     background-image: url(./image/stats.png);
      background-size: cover;
      text-align: center;
  }
@@ -887,7 +887,7 @@
  .quote {
      padding-top: var(--section-padding);
      padding-bottom: var(--section-padding);
-     background-image: url(/image/quote.jpg);
+     background-image: url(./image/quote.jpg);
      background-size: cover;
      position: relative;
      text-align: center;
@@ -1035,7 +1035,7 @@
  .subscribe {
      padding-top: var(--section-padding);
      padding-bottom: var(--section-padding);
-     background-image: url(/image/subscribe.jpg);
+     background-image: url(./image/subscribe.jpg);
      background-size: cover;
      position: relative;
      color: white;
@@ -1224,7 +1224,7 @@
     .footer {
         padding-top: calc(var(--section-padding) / 2);
         padding-bottom: calc(var(--section-padding) / 2);
-        background-image: url(/image/subscribe.jpg);
+        background-image: url(./image/subscribe.jpg);
         background-size: cover;
         position: relative;
     }
